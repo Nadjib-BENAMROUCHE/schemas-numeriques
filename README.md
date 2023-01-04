@@ -12,4 +12,10 @@ Un compilateur C (pour l'implémentation C) / Makefile
 Exécutez le script 'projerv2.py' 
 
 ## C
-Exécutez le Makefile avec la commande make
+Exécutez le Makefile avec la commande make, après il faut choisir la fonction et les paramètres
+les foctions :
+ 1/ t
+ 2/ ln(t)
+ 3/ 2*ln(t))/(t*(1+ln(t)*ln(t))
+ 4/ y(t)*ln(y(t))/(y(t)−Tamb)
+ 5/ K est constante
