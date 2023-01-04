@@ -1,4 +1,4 @@
-# schemas-numeriques
+# Schemas-numeriques
 L'implemantation d'Euler explicite et Runge-Kutta sous Python et C 
 
 # Description
